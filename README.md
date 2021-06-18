@@ -1,6 +1,6 @@
 ﻿# VirtualAssistant
 
-This is a Virtual Assistant just like Alexa or Jarvis as shown in the movie Iron Man but it is a very basic one as it cannot perform all the functions like them.
+This is a AI Voice Virtual Assistant just like Alexa or Jarvis as shown in the movie Iron Man but it is a very basic one as it cannot perform all the functions like them.
 ## Functions
 It can Tell you date and time.<br>
 It can tell you your CPU performance and Battery.<br>
